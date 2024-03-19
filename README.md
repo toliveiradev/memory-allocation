@@ -1,3 +1,3 @@
 ## Memory Allocation Training Session
 
-- Mastering Memory: Allocation Techniques in C, C++
+- Mastering Memory: Allocation Techniques in C, C++.
